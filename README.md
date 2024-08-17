@@ -86,6 +86,4 @@ You can customize the behavior of the AI agents by modifying their roles, goals,
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-[Specify your license here]
